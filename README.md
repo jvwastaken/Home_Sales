@@ -10,7 +10,7 @@
 
 ## Getting-Started:
 1. Open [Google Colab](https://colab.research.google.com/).
-2. Clone the GitHub Repo: `git@github.com:jvwastaken/Home_Sales.git`.
+2. Clone the GitHub Repo: `git clone git@github.com:jvwastaken/Home_Sales.git`
 3. Upload the file to Google Colab.
 > [!IMPORTANT] 
 > Please use the [Colab version](Starter_Code/Home_Sales_starter_code_colab.ipynb) when uploading to Google Colab.
