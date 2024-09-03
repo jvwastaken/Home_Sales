@@ -1,3 +1,6 @@
+# Hiding unnecessary files
+Home_Sales.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
